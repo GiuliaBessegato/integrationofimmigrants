@@ -40,8 +40,6 @@ codebook country1
 
 
 *VARIABILE X"
-
-* we wanted to create a new variable merging emplrel and uemp12m, so being able to do a comparison between the working and not working and their social integration but if we merge the to variables we end up with 58 missing out of 99 cases*/ 
 gen employue = emplrel + uemp12m 
 cap drop empl_x
 gen empl_x = . 

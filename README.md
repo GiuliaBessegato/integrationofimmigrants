@@ -17,3 +17,10 @@ European social surveys(ESS), Round 7 of 2014. The European Social Survey (ESS) 
 driven cross-national survey that has been conducted across Europe since its establishment in
 2001. Every two years, face-to-face interviews are conducted with newly selected, crosssectional samples. It collects data concerning different topics, such as attitudes, belief and
 behavioural patterns in diverse populations across 30 countries.
+---
+#### Authors
+Bessegato Giulia
+Capanni Teresa
+Tomaselli Alessia
+Fatna
+
